@@ -33,5 +33,6 @@ Don't forget to copy `icon.ico` to ".\lastfmnowplayingoverlay-win32-x64\"
 
 * [Electron](https://www.electronjs.org/)
 * [pixelchat.tv](https://pixelchat.tv/)
+* <div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 *I am not affiliated with Electron or pixelchat.tv*
