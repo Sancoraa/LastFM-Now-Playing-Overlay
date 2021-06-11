@@ -30,7 +30,7 @@ If you wish to build the app, use [Electron-builder](https://www.electron.build/
 
 ## Credits
 
-[Electron](https://www.electronjs.org/)
-[pixelchat.tv](https://pixelchat.tv/)
+* [Electron](https://www.electronjs.org/)
+* [pixelchat.tv](https://pixelchat.tv/)
 
 *I am not affiliated with Electron or pixelchat.tv*
