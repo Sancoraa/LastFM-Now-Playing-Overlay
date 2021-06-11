@@ -1,0 +1,15 @@
+{
+  "name": "lastfmnowplayingoverlay",
+  "version": "1.0.0",
+  "description": "Last.fm Now Playing Overlay",
+  "main": "main.js",
+  "author": "Sancoraa",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^13.1.2"
+  }
+}
