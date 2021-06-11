@@ -4,4 +4,4 @@ This project is an overlay mainly used to display your current [Last.fm] (https:
 
 ## Example
 
-<img src=https://imgur.com/nilMjVk>
+<img src=https://i.imgur.com/nilMjVk.gif>
