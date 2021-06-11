@@ -14,7 +14,7 @@ This project is an overlay mainly used to display your current [Last.fm](https:/
 ## Instructions
 
 1. Clone the repository
-2. Edit `main.js` to yoour likings
+2. Edit `main.js` to your likings
    - `width : x` where x is the width of the window. **Default : 800**
    - `height : x` where x is the height of the window. **Default : 600**
    - `win.setPosition(x, y)` where x is the horizontal pos and y the vertical pos. **Defaut : -20, -230**
@@ -26,7 +26,7 @@ This project is an overlay mainly used to display your current [Last.fm](https:/
     
 ##### Optional
 
-If you wish to build the app, use [Electron-builder](https://www.electron.build/)</br>
+If you wish to build the app, use [Electron-packager](https://github.com/electron/electron-packager)</br>
 Don't forget to copy `icon.ico` to ".\lastfmnowplayingoverlay-win32-x64\"
 
 ## Credits
