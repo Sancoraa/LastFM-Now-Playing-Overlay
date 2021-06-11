@@ -8,7 +8,7 @@ This project is an overlay mainly used to display your current [Last.fm](https:/
 
 ## Requirements
 
-[Node.js](https://nodejs.org/en/)
+[Node.js](https://nodejs.org/en/)</br>
 [Electron](https://www.electronjs.org/)
 
 ## Instructions
