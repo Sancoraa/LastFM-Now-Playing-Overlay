@@ -23,7 +23,7 @@ This project is an overlay mainly used to display your current [Last.fm](https:/
 ##### Optional
 
 If you wish to build the app, use [Electron-packager](https://github.com/electron/electron-packager)</br>
-Don't forget to copy `icon.ico` to ".\lastfmnowplayingoverlay-win32-x64\"
+Don't forget to copy `icon.ico` and `posData.json` to ".\lastfmnowplayingoverlay-win32-x64\"
 
 ## Usage
 
