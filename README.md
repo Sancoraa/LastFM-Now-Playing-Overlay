@@ -15,7 +15,7 @@ This project is an overlay mainly used to display your current [Last.fm](https:/
 
 1. Clone the repository
 2. Edit `main.js` to your likings.
-   - `win.loadURL('x')` where x is your overlay URL. _I personnaly use [pixelchat.tv](https://pixelchat.tv/)
+   - `win.loadURL('x')` where x is your overlay URL. _I personnaly use [pixelchat.tv](https://pixelchat.tv/)_
    - `width : x` where x is the width of the window. **Default : 800**
    - `height : x` where x is the height of the window. **Default : 100**
 4. Open a terminal and install Electron
