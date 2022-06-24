@@ -38,4 +38,4 @@ Right click on the tray icon, click on toggle drag and move your overlay where y
 * [pixelchat.tv](https://pixelchat.tv/)
 * <div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
-*I am not affiliated with Electron or pixelchat.tv*
+*I am not affiliated with pixelchat.tv*
